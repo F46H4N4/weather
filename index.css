@@ -1,0 +1,17 @@
+body{
+   background-image:url("./1379485.jpg");
+  
+ background-size: cover;
+}
+#text{
+    padding-left: 200px;
+    width: 500px;
+}
+#result{
+    width: 500px;
+    padding-left: 250px;
+    text-decoration-color: brown;
+}
+.heading{
+    padding-left: 250px;
+    color:rgb(0, 4, 255);
